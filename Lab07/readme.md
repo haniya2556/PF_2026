@@ -1,3 +1,5 @@
+# Haniya Adnan Subzwari
+# 26K-2546
 ## Task 1
 
 <img width="568" height="395" alt="q1" src="https://github.com/user-attachments/assets/94925a39-ac31-4082-96ba-93f3ea4b8cd4" />
