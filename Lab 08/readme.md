@@ -1,3 +1,5 @@
+# Haniya Adnan Subzwari
+# 26K-2546
 ## Question 1
 
 <img width="503" height="277" alt="image" src="https://github.com/user-attachments/assets/640a8d82-1ec5-4b4f-9b5a-c07ea5dccf25" />
