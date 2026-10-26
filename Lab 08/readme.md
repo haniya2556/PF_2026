@@ -39,3 +39,7 @@
 ## Question 10
 
 <img width="528" height="353" alt="image" src="https://github.com/user-attachments/assets/82dad259-ba0e-4314-95a6-c75780485776" />
+
+## Question 11
+
+<img width="504" height="248" alt="image" src="https://github.com/user-attachments/assets/c73a7958-f0ba-42fb-9b9c-e36b01957a94" />
