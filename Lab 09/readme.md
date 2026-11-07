@@ -25,3 +25,7 @@
 ## Task 7
 
 <img width="474" height="256" alt="image" src="https://github.com/user-attachments/assets/8ece138b-1501-4228-99e5-6f5db26e01f6" />
+
+## Task 8
+
+<img width="646" height="408" alt="image" src="https://github.com/user-attachments/assets/d11ee927-4090-4737-9d71-5ea1e932bdec" />
